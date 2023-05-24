@@ -1,1 +1,1 @@
-# Seg-dlet
+# Órán megoldott gyakorló feladatok és tanulmányok.
